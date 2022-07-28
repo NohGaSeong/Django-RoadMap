@@ -47,3 +47,7 @@ class Post(models.Model):
 #### 클래스 안에 있는 def?
 - 클래스 안에 있는 def = 메서드(method) 입니다. (클래스 내에 있는 함수라고 생각하시면 편해요)
 - 아래있는__str__ 메서드를 봅시다. 코드를 봐보면 `__str__`를 호출하면 Post 모델의 제목 텍스트(string)를 얻게 될 거에요.
+
+### 모델을 위한 테이블 만들기
+- 변화가 생겼다는 것을 장고에게 알려주기 = `python manage.py makemigrations <app name>`
+- 생긴 변화를 데이터베이스에 반영하기 = `python manage.py migrate <app name>`
