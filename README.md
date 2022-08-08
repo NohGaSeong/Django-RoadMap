@@ -11,6 +11,7 @@
 ## 템플릿 개념
 - <a href = "https://github.com/NohGaSeong/Django-RoadMap/blob/main/%ED%85%9C%ED%94%8C%EB%A6%BF%20%EA%B0%9C%EB%85%90/Django%20Template%20Language.md">Django Template Language
 ## 주요 개념
+- <a href = "https://github.com/NohGaSeong/Django-RoadMap/blob/main/%EC%A3%BC%EC%9A%94%20%EA%B0%9C%EB%85%90/Django%20file%20upload.md">Django File Upload</a>
 ## 장고 기타 개념
 ## 장고 중급 개념
 ## 장고 리디렉션 
