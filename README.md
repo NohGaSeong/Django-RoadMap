@@ -25,6 +25,7 @@
 ## 장고 중급 개념
 ## 장고 리디렉션 
 ## 장고 심화 개념
+- <a href = "https://github.com/NohGaSeong/Django-RoadMap/blob/main/%EC%9E%A5%EA%B3%A0%20%EC%8B%AC%ED%99%94%20%EA%B0%9C%EB%85%90/AbstracUser%2C%20AbstractBaseUser.md">AbstractUser vs AbstractBaseUser </a>
 ## 장고 쿼리셋 개념
 ## 장고 보안 개념
 ## 장고 RestFramework
